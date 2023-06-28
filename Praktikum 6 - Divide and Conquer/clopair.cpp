@@ -5,7 +5,7 @@ int u;
 int v;
 double bestmin = 1000000000;
 struct points
-{
+{   
     int x;
     int y;
     int pos;
